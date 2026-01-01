@@ -36,4 +36,4 @@ You can adjust the display time and visual distance in the code variables (e.g.,
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-**Created with ❤️ by [YourName]**
+**Created with ❤️ by [Eper]**
